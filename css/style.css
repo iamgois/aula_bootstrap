@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;500;700&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
+
+.navbar {
+    background-color: #FEF9E7;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* QUEM SOMOS */
+
+.quem-somos {
+    background-color: #FCF3CF;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
+
+#quemsomos h6 {
+    margin-top: 30px;
+}
+
+/* PARCEIROs */
+
+#parceiros {
+    background-color: #F9E79F;
+}
+
+#parceiros p {
+    font-size: 20px;
+}
+
+.col-md-4 {
+    margin-top: 100px;
+    margin-bottom: 40px;
+}
+
+/* SERVIÇOS */
+
+.servicos {
+    background-color: #FCF3CF;
+}
+
+/* FOOTER */
+
+.bg-footer {
+    background-color: #FEF9E7;
+    margin-bottom: 0px;
+}
